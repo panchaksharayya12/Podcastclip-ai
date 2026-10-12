@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic / Environment
+node_modules
+dist
+dist-ssr
+server/dist
+*.local
+
+# Environment variables
+.env
+.env.production
+
+# Editor directories
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Storage uploads & generated clips (keep folder structure with gitkeep)
+server/uploads/*
+!server/uploads/.gitkeep
+server/generated/*
+!server/generated/.gitkeep
+server/projects/*
+!server/projects/.gitkeep
