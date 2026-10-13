@@ -77,3 +77,4 @@ const server = app.listen(CONFIG.PORT, async () => {
 });
 
 export default app;
+

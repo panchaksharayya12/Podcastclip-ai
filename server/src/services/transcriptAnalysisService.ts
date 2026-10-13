@@ -298,3 +298,4 @@ export class TranscriptAnalysisService {
     return clipSuggestions;
   }
 }
+

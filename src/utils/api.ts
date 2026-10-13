@@ -185,3 +185,4 @@ export async function exportCaptions(params: {
   document.body.removeChild(a);
   window.URL.revokeObjectURL(url);
 }
+

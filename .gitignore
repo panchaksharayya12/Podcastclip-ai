@@ -36,3 +36,6 @@ server/generated/*
 !server/generated/.gitkeep
 server/projects/*
 !server/projects/.gitkeep
+
+
+.vercel

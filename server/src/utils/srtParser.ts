@@ -96,3 +96,4 @@ export function generateSrtContent(cues: Array<{ startTime: number; endTime: num
     })
     .join('\n');
 }
+

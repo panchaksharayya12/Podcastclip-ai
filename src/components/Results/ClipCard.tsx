@@ -278,3 +278,4 @@ export const ClipCard: React.FC<ClipCardProps> = ({
     </motion.div>
   );
 };
+

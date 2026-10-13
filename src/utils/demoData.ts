@@ -114,3 +114,4 @@ export const DEMO_CLIPS: ClipSuggestion[] = [
     aspectRatio: '9:16',
   },
 ];
+

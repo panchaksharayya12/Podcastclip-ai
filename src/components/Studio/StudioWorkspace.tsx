@@ -195,3 +195,4 @@ export const StudioWorkspace: React.FC<StudioWorkspaceProps> = ({
     </section>
   );
 };
+

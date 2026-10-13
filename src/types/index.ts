@@ -89,3 +89,4 @@ export interface ServerHealth {
   openAiConfigured: boolean;
   timestamp: string;
 }
+

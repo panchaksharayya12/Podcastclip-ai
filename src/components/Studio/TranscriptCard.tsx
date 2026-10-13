@@ -171,3 +171,4 @@ export const TranscriptCard: React.FC<TranscriptCardProps> = ({
     </div>
   );
 };
+

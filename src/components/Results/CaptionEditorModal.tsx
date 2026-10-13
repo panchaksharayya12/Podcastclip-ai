@@ -303,3 +303,4 @@ export const CaptionEditorModal: React.FC<CaptionEditorModalProps> = ({ clip, on
     </div>
   );
 };
+

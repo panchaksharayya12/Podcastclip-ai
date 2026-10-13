@@ -156,3 +156,4 @@ export const Hero: React.FC<HeroProps> = ({ onStartCreating, onTryDemo }) => {
     </section>
   );
 };
+

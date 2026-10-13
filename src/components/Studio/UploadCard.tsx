@@ -232,3 +232,4 @@ export const UploadCard: React.FC<UploadCardProps> = ({
     </div>
   );
 };
+

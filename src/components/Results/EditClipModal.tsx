@@ -226,3 +226,4 @@ export const EditClipModal: React.FC<EditClipModalProps> = ({
     </div>
   );
 };
+
